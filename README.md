@@ -12,11 +12,11 @@ prototype for b0bot project at GSoC 2023 SCoRe labs
 
 ## Roadmap
 1. Set up a Twitter developer account and create a new app to access the Twitter API (applied... waiting for account activation)
-Install and configure the Tweepy library to interact with the Twitter API using Python
-2. Set up a MongoDB database using PyMongo to store the data collected by B0Bot
-3. Set up a Flask API that handles incoming requests from Twitter and users
-4. Implement B0Bot's periodic news feature by configuring the Tweepy library to periodically collect and store data from the Twitter API
-5. Implement B0Bot's keyword search feature by setting up a webhook to receive and process user requests from Twitter
-6. Implement B0Bot's retweet feature by configuring the Tweepy library to retweet tweets from certain accounts
-7. Implement B0Bot's reply feature by processing user mentions and sending appropriate responses
-8. Deploy B0Bot as a serverless function using Vercel
+2. Install and configure the Tweepy library to interact with the Twitter API using Python
+3. Set up a MongoDB database using PyMongo to store the data collected by B0Bot
+4. Set up a Flask API that handles incoming requests from Twitter and users
+5. Implement B0Bot's periodic news feature by configuring the Tweepy library to periodically collect and store data from the Twitter API
+6. Implement B0Bot's keyword search feature by setting up a webhook to receive and process user requests from Twitter
+7. Implement B0Bot's retweet feature by configuring the Tweepy library to retweet tweets from certain accounts
+8. Implement B0Bot's reply feature by processing user mentions and sending appropriate responses
+9. Deploy B0Bot as a serverless function using Vercel
