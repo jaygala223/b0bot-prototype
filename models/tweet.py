@@ -1,0 +1,1 @@
+# Model for storing tweet data
