@@ -42,7 +42,7 @@ prototype for b0bot project at GSoC 2023 SCoRe labs
 3. Write tests for the API using pytest
 4. Conduct thorough testing and debugging to ensure functionality and stability
 
-### Phase 4: Documentation and Finalizing (1 week)
+### Phase 4: Documentation, Final tests and Evaluation (1 week)
 1. Document the code and provide instructions for installation and usage
 2. Create a user guide for the b0bot application
 3. Conduct final testing and bug fixing
