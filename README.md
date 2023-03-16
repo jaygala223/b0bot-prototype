@@ -20,6 +20,7 @@ prototype for b0bot project at GSoC 2023 SCoRe labs
 7. Implement B0Bot's retweet feature by configuring the Tweepy library to retweet tweets from certain accounts
 8. Implement B0Bot's reply feature by processing user mentions and sending appropriate responses
 9. Deploy B0Bot as a serverless function using Vercel
+10. Set up a dashboard on Better Uptime for real-time tracking of bot activity and ensuring that the bot is running smoothly and consistently.
 
 ## Updated Roadmap with Timeline
 

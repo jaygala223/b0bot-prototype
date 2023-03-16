@@ -6,4 +6,6 @@ import os
 
 def get_db():
     client = MongoClient(os.environ.get('MONGO_URI'))
-    return client[os.environ.get('b0bot_db')]
+    return client['b0bot_db']
+
+print(get_db())
