@@ -8,6 +8,7 @@ prototype for b0bot project at GSoC 2023 SCoRe labs
 4. B0Bot will periodically retweet certain Twitter accounts
 5. B0Bot will reply with information if a user mentions the bot
 6. B0Bot will periodically run as a serverless function
+7. A monitoring dashboard will be setup on Better Uptime to track bot performance
 
 
 ## Roadmap

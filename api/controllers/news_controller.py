@@ -7,7 +7,7 @@ import pandas as pd
 def add_news_to_db():
     api = get_api()
 
-    keywords = ['cybersecurity', 'news']
+    keywords = 'cybersecurity + news'
 
     limit = 500
 
@@ -18,6 +18,3 @@ def add_news_to_db():
         pass
 
 
-# df = pd.DataFrame.from_dict({"Jaygala223":"qwewrererererer", "jaygala260":"aasasa", "jaygala223":"1111"})
-
-# print(df)
